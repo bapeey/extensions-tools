@@ -3,7 +3,7 @@ script#wp-manga-js-extra
 script#manga_disqus_embed-js-extra
 mangaid
 page
-function\s+.*?[\s\S]*?.ajax[\s\S]*?(?:url:\s*'([^']*)')(?:[\s\S]*?data:\s*\{([^}]*)\})?
+function\s+.*?[\s\S]*?\.ajax[\s\S]*?(?:'?url'?:\s*'([^']*)')(?:[\s\S]*?'?data'?:\s*\{([^}]*)\})?
 \s*(\w+)\s*:\s*(?:(?:'([^']*)'|([^,\r\n]+))\s*,?\s*)
 \"manga_id"\s*:\s*"(.*)\"
 \"postId"\s*:\s*"(.*)\"
