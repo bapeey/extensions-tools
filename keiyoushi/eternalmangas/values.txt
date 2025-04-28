@@ -1,2 +1,2 @@
 https://apis.eternalmangas.com/api/comics-actu
-{"X-Awa-Key": "1-self\\.__next_f\\.push\\(.*awa\\\\\":\\\\\"(.*?)\\\\\"\}"}
+{"X-Awa-Key": "1-self\\.__next_f\\.push\\(.*awa\\\\\":\\\\\"(.*?)\\\\\\\"\\}"}
