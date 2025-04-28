@@ -1,0 +1,3 @@
+X-Eternal-Key
+self\.__next_f\.push\(.*token\\":\\"(.*?)\\"\}
+https://apis.eternalmangas.com/api/comics-actu
