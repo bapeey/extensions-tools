@@ -1,2 +1,5 @@
 https://apis.eternalmangas.com/api/comics-actu
 {"X-Awa-Key": "1-self\\.__next_f\\.push\\(.*awa\\\\\":\\\\\"(.*?)\\\\\\\"\\}"}
+1
+script:containsData(self.__next_f.push)
+self\\.__next_f\\.push\\(.*data\\\\\":(\\[.*trending.*])\\}
